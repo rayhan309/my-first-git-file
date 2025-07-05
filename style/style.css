@@ -5,6 +5,7 @@ div {
           border: 5px solid blueviolet;
           border-radius: 10px;
           width: 50%;
+          padding: 5%;
 
 }
 
@@ -15,4 +16,19 @@ p {
 
 h1 {
           color: rgb(144, 110, 69);
+}
+
+#rayhan {
+          background-color: brown;
+          text-align: center;
+          font-size: 30px;
+}
+
+h2 {
+          color: cyan;
+          text-decoration: dashed;
+}
+
+#fahim {
+          background-position: right;
 }
